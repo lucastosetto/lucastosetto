@@ -18,7 +18,7 @@ Here is a list of projects I've build during my carreer, including personal ones
 
 - **Cloud**
 
-    *[SOON!]* [AWS Static Host](https://github.com/lucastosetto/): React app deployment in AWS (with S3, Route53, ACM and CloudFront) using CloudFormation to provide IaC.
+    *[SOON!]* [AWS Static Host](https://github.com/lucastosetto/): React app deployment in AWS (with S3, Route53, ACM and CloudFront) using CloudFormation for IaC.
 
 - **Data Science**
 
