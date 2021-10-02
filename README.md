@@ -16,10 +16,10 @@ Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learn
 
 Here is a list of projects I've build during my carreer, including personal ones, activities in follow along lessons and even some (anonymized) real world applications I've developed!
 
-## Cloud
+# Cloud
 
 *[SOON!]* [AWS Static Host](https://github.com/lucastosetto/): React app deployment in AWS (with S3, Route53, ACM and CloudFront) using CloudFormation to provide IaC.
 
-## Data Science
+# Data Science
 
 [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn.
