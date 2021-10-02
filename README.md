@@ -1,8 +1,6 @@
-# About
+# Bio
 
 I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Technology since 2017. I'm experienced in DevOps, CI/CD, Cloud Architecture, QA Tests Automation and Agile Methodologies.
-
-In this page I share some projects I've build during my carreer, including personal ones, activities in follow along lessons and even some (anonymized) real world applications I've developed.
 
 # Skills
 
@@ -13,3 +11,7 @@ Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learn
 **KIS Solutions (2021 - Present):** Currently working as a QA Engineer, building UI and API automated tests and infrastructure for running them in CI/CD pipelines.
 
 **Phoenix Luferco (2017 - 2021):** I worked as Electrical Engineer, being responsible for hardware and software development for medical devices and industrial automation (IoT).
+
+# Portfolio
+
+In this page I share some projects I've build during my carreer, including personal ones, activities in follow along lessons and even some (anonymized) real world applications I've developed.
