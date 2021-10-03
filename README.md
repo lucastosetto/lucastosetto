@@ -10,7 +10,7 @@ I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Te
 
 <a href="https://wa.me/5516981346245" alt="WhatsApp" target="_blank">
 
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5516981346245"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 </a>
 
