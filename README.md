@@ -97,7 +97,7 @@ This is some of the programming languages and frameworks I've already worked wit
 
 # <p align="center"> Portfolio </p>
 
-Here is a list of some projects I've build, including personal ones, study activities and even some (anonymized) real world applications!
+Some projects I've worked on, including personal ones, study activities and even some (anonymized) real world applications!
 
 - **Data Science**
 
@@ -115,6 +115,8 @@ Here is a list of some projects I've build, including personal ones, study activ
 
 Feel free to get in touch!
 
+<p align="center">
+
 <a href="https://www.linkedin.com/in/lucastosettomorvillo" alt="linkedin" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -126,3 +128,5 @@ Feel free to get in touch!
 <a href="mailto:lucastosetto@outlook.com" alt="Outlook" target="_blank">
  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
+
+ </p>
