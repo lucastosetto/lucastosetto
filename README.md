@@ -101,7 +101,7 @@ Some projects I've worked on, including personal ones, study activities and even
 
 ## **Data Science**
 
-    [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn.
+[Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn.
 
 - **Software Architecture**
 
