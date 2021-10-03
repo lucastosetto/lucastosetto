@@ -2,7 +2,7 @@
 
 I'm an Electrical Engineer (UNESP, Brazil) working with Information Technology since 2017. I have experience in DevOps, CI/CD, Cloud Infrastructure, Test Automation and Agile Methodologies.
 
-# Tech Stack
+# <p align="center"> Tech Stack </p>
 
 This is some of the programming languages and frameworks I've already worked with:
 
@@ -89,13 +89,13 @@ This is some of the programming languages and frameworks I've already worked wit
  
  </p>
 
-# Work Experience
+# <p align="center"> Work Experience </p>
 
 **KIS Solutions (2021 - Present):** Currently working as a QA Engineer, building UI and API automated tests and infrastructure for running them in CI/CD pipelines.
 
 **Phoenix Luferco (2017 - 2021):** I worked as Electrical Engineer, being responsible for hardware and software development for medical devices and industrial automation (IoT).
 
-# Portfolio
+# <p align="center"> Portfolio </p>
 
 Here is a list of some projects I've build, including personal ones, study activities and even some (anonymized) real world applications!
 
@@ -111,7 +111,7 @@ Here is a list of some projects I've build, including personal ones, study activ
     
     *[SOON!]* [Cybersecurity Studies Lab](https://github.com/lucastosetto/): Cybersecurity lab environment with isolated AWS EC2 instances.
     
-# Contact
+# <p align="center"> Contact </p>
 
 Feel free to get in touch!
 
