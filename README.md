@@ -4,7 +4,7 @@ I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Te
 
 <a href="https://www.linkedin.com/in/lucastosettomorvillo" alt="linkedin" target="_blank">
 
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
