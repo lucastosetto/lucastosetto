@@ -1,5 +1,6 @@
-
 <p align="center">
+    
+I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Technology since 2017. I'm experienced in DevOps, CI/CD, Cloud Architecture, QA Tests Automation and Agile Methodologies.
 
 <a href="https://www.linkedin.com/in/lucastosettomorvillo" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -14,10 +15,6 @@
 </a>
 
 </p>
-
-# Bio
-
-I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Technology since 2017. I'm experienced in DevOps, CI/CD, Cloud Architecture, QA Tests Automation and Agile Methodologies.
 
 # Skills
 
