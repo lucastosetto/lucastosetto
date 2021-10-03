@@ -25,6 +25,12 @@ Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learn
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a>
 
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</a>
+
+
+
 # Work Experience
 
 **KIS Solutions (2021 - Present):** Currently working as a QA Engineer, building UI and API automated tests and infrastructure for running them in CI/CD pipelines.
