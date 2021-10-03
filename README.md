@@ -101,15 +101,15 @@ Some projects I've worked on, including personal ones, study activities and even
 
 ### **Data Science**
 
-[Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn.
+- [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn.
 
-- **Software Architecture**
+### **Software Architecture**
 
-    *[SOON!]* [AWS Static Website](https://github.com/lucastosetto/): Static website deployment in AWS (S3 + Route53 + ACM + CloudFront).
+- *[SOON!]* [AWS Static Website](https://github.com/lucastosetto/): Static website deployment in AWS (S3 + Route53 + ACM + CloudFront).
     
-    *[SOON!]* [Cloud VPN Server](https://github.com/lucastosetto/): VPN Server hosted on an AWS EC2 instance with OpenVPN.
+- *[SOON!]* [Cloud VPN Server](https://github.com/lucastosetto/): VPN Server hosted on an AWS EC2 instance with OpenVPN.
     
-    *[SOON!]* [Cybersecurity Studies Lab](https://github.com/lucastosetto/): Cybersecurity lab environment with isolated AWS EC2 instances.
+- *[SOON!]* [Cybersecurity Studies Lab](https://github.com/lucastosetto/): Cybersecurity lab environment with isolated AWS EC2 instances.
     
 # <p align="center"> Contact </p>
 
