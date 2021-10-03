@@ -5,6 +5,8 @@ I'm an Electrical Engineer (UNESP, Brazil) working with Information Technology s
 
 # Tech Stack
 
+This is some of the programming languages and frameworks I've already worked with:
+
 <a href="https://github.com/lucastosetto/" alt="home" target="_blank">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 </a>
