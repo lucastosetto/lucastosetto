@@ -1,5 +1,4 @@
-
-# Bio
+# <p align="center"> Bio </p>
 
 I'm an Electrical Engineer (UNESP, Brazil) working with Information Technology since 2017. I have experience in DevOps, CI/CD, Cloud Infrastructure, Test Automation and Agile Methodologies.
 
