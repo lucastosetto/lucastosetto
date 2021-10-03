@@ -110,6 +110,8 @@ Here is a list of some projects I've build, including personal ones, study activ
     
 # Contact
 
+Feel free to get in touch!
+
 <a href="https://www.linkedin.com/in/lucastosettomorvillo" alt="linkedin" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
