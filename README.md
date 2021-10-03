@@ -1,18 +1,6 @@
 
 I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Technology since 2017. I'm experienced in DevOps, CI/CD, Cloud Architecture, QA Tests Automation and Agile Methodologies.
 
-<a href="https://www.linkedin.com/in/lucastosettomorvillo" alt="linkedin" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://wa.me/5516981346245" alt="WhatsApp" target="_blank">
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="mailto:lucastosetto@outlook.com" alt="Outlook" target="_blank">
- <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-
 # Tech Stack
 
 <a href="https://github.com/lucastosetto/" alt="home" target="_blank">
@@ -66,8 +54,6 @@ I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Te
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
-
-
 <a href="https://github.com/lucastosetto/" alt="home" target="_blank">
  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 </a>
@@ -117,3 +103,17 @@ Here is a list of some projects I've build, including personal ones, study activ
     *[SOON!]* [Cloud VPN Server](https://github.com/lucastosetto/): VPN Server hosted on an AWS EC2 instance with OpenVPN.
     
     *[SOON!]* [Cybersecurity Studies Lab](https://github.com/lucastosetto/): Cybersecurity lab environment with isolated AWS EC2 instances.
+    
+# Contact
+
+<a href="https://www.linkedin.com/in/lucastosettomorvillo" alt="linkedin" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://wa.me/5516981346245" alt="WhatsApp" target="_blank">
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:lucastosetto@outlook.com" alt="Outlook" target="_blank">
+ <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
