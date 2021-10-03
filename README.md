@@ -22,6 +22,7 @@ I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Te
 Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learning, Computer Vision, Tests Automation, Microservices, among others.
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 # Work Experience
