@@ -107,9 +107,8 @@ Some projects I've worked on, including personal ones, study activities and even
 
 - *[SOON!]* [AWS Static Website](https://github.com/lucastosetto/): Static website deployment in AWS (S3 + Route53 + ACM + CloudFront).
     
-- *[SOON!]* [Cloud VPN Server](https://github.com/lucastosetto/): VPN Server hosted on an AWS EC2 instance with OpenVPN.
+- *[SOON!]* [AWS VPN Server](https://github.com/lucastosetto/): VPN Server hosted on an AWS EC2 instance with OpenVPN.
     
-- *[SOON!]* [Cybersecurity Studies Lab](https://github.com/lucastosetto/): Cybersecurity lab environment with isolated AWS EC2 instances.
     
 # <p align="center"> Contact </p>
 
