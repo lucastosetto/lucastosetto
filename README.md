@@ -99,7 +99,7 @@ This is some of the programming languages and frameworks I've already worked wit
 
 Some projects I've worked on, including personal ones, study activities and even some (anonymized) real world applications!
 
-## **Data Science**
+### **Data Science**
 
 [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn.
 
