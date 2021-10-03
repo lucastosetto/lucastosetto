@@ -29,6 +29,10 @@ Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learn
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </a>
 
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</a>
+
 
 
 # Work Experience
