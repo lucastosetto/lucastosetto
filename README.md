@@ -13,9 +13,7 @@ I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Te
  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </a>
 
-# Skills
-
-Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learning, Computer Vision, Tests Automation, Microservices, among others.
+# Tech Stack
 
 <a href="https://github.com/lucastosetto/" alt="home" target="_blank">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -33,7 +31,70 @@ Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learn
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
 
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+</a>
 
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+</a>
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</a>
+
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</a>
 
 # Work Experience
 
