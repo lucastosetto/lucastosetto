@@ -8,6 +8,12 @@ I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Te
 
 </a>
 
+<a href="https://wa.me/5516981346245" alt="WhatsApp" target="_blank">
+
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+
+</a>
+
 # Skills
 
 Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learning, Computer Vision, Tests Automation, Microservices, among others.
