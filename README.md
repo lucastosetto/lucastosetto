@@ -26,4 +26,4 @@ Here is a list of some projects I've build, including personal ones, study activ
     
     *[SOON!]* [Cloud VPN Server](https://github.com/lucastosetto/): VPN Server hosted on an AWS EC2 instance with OpenVPN.
     
-    *[SOON!]* [Cybersecurity Studies Lab](https://github.com/lucastosetto/): Cybersecurity lab environment with isolated AWS EC2 instances
+    *[SOON!]* [Cybersecurity Studies Lab](https://github.com/lucastosetto/): Cybersecurity lab environment with isolated AWS EC2 instances.
