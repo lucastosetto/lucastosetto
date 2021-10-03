@@ -10,7 +10,15 @@ I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Te
 
 <a href="https://wa.me/5516981346245" alt="WhatsApp" target="_blank">
 
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5516981346245"/>
+
+</a>
+
+</a>
+
+<a href="mailto:lucastosetto@outlook.com" alt="Outlook" target="_blank">
+
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 
 </a>
 
