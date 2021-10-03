@@ -7,6 +7,8 @@ I'm an Electrical Engineer (UNESP, Brazil) working with Information Technology s
 
 This is some of the programming languages and frameworks I've already worked with:
 
+<p align="center">
+
 <a href="https://github.com/lucastosetto/" alt="home" target="_blank">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
 </a>
@@ -85,6 +87,8 @@ This is some of the programming languages and frameworks I've already worked wit
 <a href="https://github.com/lucastosetto/" alt="home" target="_blank">
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </a>
+ 
+ </p>
 
 # Work Experience
 
