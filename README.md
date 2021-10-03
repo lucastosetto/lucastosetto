@@ -2,6 +2,12 @@
 
 I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Technology since 2017. I'm experienced in DevOps, CI/CD, Cloud Architecture, QA Tests Automation and Agile Methodologies.
 
+<a href="https://www.linkedin.com/in/lucastosettomorvillo" alt="linkedin" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+
+</a>
+
 # Skills
 
 Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learning, Computer Vision, Tests Automation, Microservices, among others.
