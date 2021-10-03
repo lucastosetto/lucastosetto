@@ -17,6 +17,10 @@ I'm a brazillian Electrical Engineer (UNESP, Brazil) working with Information Te
 
 Python, Java, C/C++, AWS, Jenkins, Docker, Selenium, JUnit, MySQL, Machine Learning, Computer Vision, Tests Automation, Microservices, among others.
 
+<a href="https://github.com/lucastosetto/" alt="home" target="_blank">
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+</a>
+
 <a>
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 </a>
