@@ -4,8 +4,7 @@ I'm an Electrical Engineer (UNESP, Brazil) working with Information Technology s
 
 # <p align="center"> Skills </p>
 
-### **Programming Languages:** 
-Python, Java, Javascript, C/C++, Ruby
+Python, Java, Javascript, C/C++, Ruby, Selenium, Cucumber, JUnit, Behave, Ruby on Rails, Jenkins, Docker, AWS, Numpy, Scikit-Learn, Pandas, OpenCV, Cloudformation, Postman and so on...
 
 # <p align="center"> Work Experience </p>
 
