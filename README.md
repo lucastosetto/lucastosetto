@@ -2,9 +2,9 @@
 
 I'm an Electrical Engineer (UNESP, Brazil) working with Information Technology since 2017. I have experience in DevOps, CI/CD, Cloud Infrastructure, Test Automation and Agile Methodologies.
 
-# <p align="center"> Tech Stack </p>
+# <p align="center"> Skills </p>
 
-- **Programming Languages:** Python, Java, Javascript, C/C++, Ruby
+### **Programming Languages:** Python, Java, Javascript, C/C++, Ruby
 
 # <p align="center"> Work Experience </p>
 
