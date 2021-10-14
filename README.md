@@ -16,16 +16,7 @@ Python, Java, Javascript, C/C++, Ruby, Selenium, Cucumber, JUnit, Behave, Ruby o
 
 Some projects I've worked on, including personal ones, study activities and even some (anonymized) real world applications!
 
-### **Data Science**
-
-- [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn.
-
-### **Software Architecture**
-
-- *[SOON!]* [AWS Static Website](https://github.com/lucastosetto/): Static website deployment in AWS (S3 + Route53 + ACM + CloudFront).
-    
-- *[SOON!]* [AWS VPN Server](https://github.com/lucastosetto/): VPN Server hosted on an AWS EC2 instance with OpenVPN.
-    
+- [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn.  
     
 # <p align="center"> Contact </p>
 
