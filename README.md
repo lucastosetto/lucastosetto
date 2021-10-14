@@ -16,6 +16,8 @@ Python, Java, C/C++, Ruby, Selenium, Cucumber, JUnit, Behave, Ruby on Rails, Jen
 
 Some projects I've worked on, including personal ones, study activities and even some (anonymized) real world applications!
 
+- [Credit Card Fraud Detection](https://github.com/lucastosetto/credit-card-fraud-detection): Serverless application hosted on AWS that runs an XBoost Machine Learning algorithm to predict frauds in incoming payloads.
+
 - [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn.  
     
 # <p align="center"> Contact </p>
