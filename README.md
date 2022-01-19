@@ -1,22 +1,22 @@
 # <p align="center"> Bio </p>
 
-I'm an Electrical Engineer (UNESP, Brazil) working with Information Technology since 2017. I have experience in DevOps, CI/CD, Cloud Infrastructure, Test Automation and Agile Methodologies.
+I'm a Software Engineer with experience in Backend Development, DevOps and currently learning about Cybersecurity.
 
-# <p align="center"> Skills </p>
+# <p align="center"> Main Skills </p>
 
-Python, Java, C/C++, Ruby, Selenium, Cucumber, JUnit, Behave, Ruby on Rails, Jenkins, Docker, AWS, Numpy, Scikit-Learn, Pandas, OpenCV, Cloudformation, Postman and so on...
+Python, Ruby on Rails, C/C++, Docker, AWS, GCP, Linux, Kafka, RabbitMQ and so on...
 
-# <p align="center"> Work Experience </p>
+# <p align="center"> Professional Experience </p>
 
-**KIS Solutions (2021 - Present):** Currently working as a QA Engineer, building UI and API automated tests and infrastructure for running them in CI/CD pipelines.
+**Software Engineer III @ CloudWalk (October, 2021 - Present):** Member of Risk Team, working with fraud prevention on financial transactions. Responsible for the whole software lifecycle of anti fraud applications for acquiring and issuing operations. Tech Stack: Python, FastAPI, Ruby on Rails, GCP, Docker, Kafka, RabbitMQ.
 
-**Phoenix Luferco (2017 - 2021):** I worked as Electrical Engineer, being responsible for hardware and software development for medical devices and industrial automation (IoT).
+**QA Engineer @ KIS Solutions (August, 2021 - October, 2021):** Responsible for building UI and API automated tests and infrastructure for running them in CI/CD pipelines. Tech Stack: Python, Selenium, Behave, Docker, Jenkins, AWS, Postman.
+
+**Electrical Engineer @ Phoenix Luferco (August, 2017 - August, 2021):** I worked as Electrical Engineer, being responsible for hardware and software development for medical devices and industrial automation (IoT). Tech Stack: C/C++, Python, Flask, Numpy, Scikit-Learn, Pandas, AWS.
 
 # <p align="center"> Portfolio </p>
 
-Some projects I've worked on, including personal ones, study activities and even some (anonymized) real world applications!
-
-- [Credit Card Fraud Detection](https://github.com/lucastosetto/credit-card-fraud-detection): Serverless application hosted on AWS that runs an XBoost Machine Learning algorithm to predict frauds in incoming payloads.
+Here are some personal projects I've worked on while I was off work:
 
 - [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn. 
 
