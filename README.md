@@ -16,7 +16,16 @@ Python, Ruby on Rails, C/C++, Docker, AWS, GCP, Linux, Kafka, RabbitMQ and so on
 
 # <p align="center"> Portfolio </p>
 
-Here are some personal projects I've worked on while I was off work:
+### Open Source Contributions
+
+#### [Pydantic](https://github.com/samuelcolvin/pydantic)
+- [#3724](https://github.com/samuelcolvin/pydantic/pull/3724): Created new type to support limited strings.
+- [#3718](https://github.com/samuelcolvin/pydantic/pull/3718): Fixed example about custom encoders in docs.
+
+#### [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [#331](https://github.com/practical-tutorials/project-based-learning/pull/331): Added Arduino tutorials.
+
+### Personal Projects
 
 - [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn. 
 
