@@ -8,7 +8,7 @@ Python, Ruby on Rails, C/C++, Docker, AWS, GCP, Linux, Kafka, RabbitMQ and so on
 
 # <p align="center"> Professional Experience </p>
 
-**Software Engineer III @ CloudWalk (October, 2021 - Present):** Member of Risk Team, working with fraud prevention on financial transactions. Responsible for the whole software lifecycle of anti fraud applications for acquiring and issuing operations. Tech Stack: Python, FastAPI, Ruby on Rails, GCP, Docker, Kafka, RabbitMQ.
+**Software Engineer III @ CloudWalk (October, 2021 - Present):** Member of Risk Team, working with fraud prevention on financial transactions. Responsible for the whole software lifecycle of anti fraud applications for acquiring and issuing operations. Tech Stack: Python, FastAPI, Ruby on Rails, GCP, Docker.
 
 **QA Engineer @ KIS Solutions (August, 2021 - October, 2021):** Responsible for building UI and API automated tests and infrastructure for running them in CI/CD pipelines. Tech Stack: Python, Selenium, Behave, Docker, Jenkins, AWS, Postman.
 
