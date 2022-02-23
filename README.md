@@ -1,6 +1,6 @@
 # <p align="center"> Bio </p>
 
-I'm a Software Engineer with experience in Backend Development, DevOps and currently learning about Blockchain.
+I'm a Software Engineer with experience in Backend Development and currently learning about Blockchain.
 
 # <p align="center"> Main Skills </p>
 
