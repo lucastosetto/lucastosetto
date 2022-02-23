@@ -27,6 +27,8 @@ Python, Ruby on Rails, C/C++, Docker, AWS, GCP, Linux, Kafka, RabbitMQ and so on
 
 ### Personal Projects
 
+- [NFT Smart Contract](https://github.com/lucastosetto/nft-genesis): My first approach to blockchain development, a simple way to deploy NFTs into the blockchain.
+
 - [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn. 
 
 - [Algorithms and Data Structures](https://github.com/lucastosetto/algorithms-data-structures): Collection of problem solving studying exercises using common algorithms and data structures.
