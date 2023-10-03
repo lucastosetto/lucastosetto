@@ -1,45 +1,21 @@
-# <p align="center"> Bio </p>
+# 💫 About Me
+Critical thinker, problem solver, passionate for challenges and for developing solutions that causes positive impact on society. I have solid experience leading Engineering teams, working with Backend Engineering, Cloud Architecture and DevOps. I'm motivated by real challenges, working to solve problems I don't even know where to start at a first glance. 
 
-I'm a Software Engineer with experience in Backend Development and currently learning about Blockchain.
 
-# <p align="center"> Main Skills </p>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucastosettomorvillo) 
 
-Python, Ruby on Rails, C/C++, Docker, AWS, GCP, Linux, Kafka, RabbitMQ and so on...
+# 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![APACHEKAFKA](https://img.shields.io/badge/apachekafka-231F20.svg?style=flat&logo=apachekafka&logoColor=white&color=%23231F20) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white&color=%23E6522C) ![NEWRELIC](https://img.shields.io/badge/newrelic-1CE783.svg?style=flat&logo=newrelic&logoColor=white&color=%231CE783) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=flat&logo=grafana&logoColor=white&color=%23F46800) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=lucastosetto&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucastosetto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastosetto&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# <p align="center"> Professional Experience </p>
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=lucastosetto&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-**Software Engineer III @ CloudWalk (October, 2021 - Present):** Member of Risk Team, working with fraud prevention on financial transactions. Responsible for the whole software lifecycle of anti fraud applications for acquiring and issuing operations. Tech Stack: Python, FastAPI, Ruby on Rails, GCP, Docker.
+---
+[![](https://visitcount.itsvg.in/api?id=lucastosetto&icon=0&color=12)](https://visitcount.itsvg.in)
 
-**QA Engineer @ KIS Solutions (August, 2021 - October, 2021):** Responsible for building UI and API automated tests and infrastructure for running them in CI/CD pipelines. Tech Stack: Python, Selenium, Behave, Docker, Jenkins, AWS, Postman.
-
-**Electrical Engineer @ Phoenix Luferco (August, 2017 - August, 2021):** I worked as Electrical Engineer, being responsible for hardware and software development for medical devices and industrial automation (IoT). Tech Stack: C/C++, Python, Flask, Numpy, Scikit-Learn, Pandas, AWS.
-
-# <p align="center"> Portfolio </p>
-
-### Personal Projects
-
-- [NFT Smart Contract](https://github.com/lucastosetto/nft-genesis): My first approach to blockchain development, a simple way to deploy NFTs into the blockchain.
-
-- [Machine Learning Basics](https://github.com/lucastosetto/machine-learning-basics): Simple SVM and Decision Tree Classifier applications in Python with Scikit-Learn. 
-
-- [Algorithms and Data Structures](https://github.com/lucastosetto/algorithms-data-structures): Collection of problem solving studying exercises using common algorithms and data structures.
-    
-# <p align="center"> Contact </p>
-
-Feel free to get in touch!
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/lucastosettomorvillo" alt="linkedin" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://wa.me/5516981346245" alt="WhatsApp" target="_blank">
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="mailto:lucastosetto@outlook.com" alt="Outlook" target="_blank">
- <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-
- </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
