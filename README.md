@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-Critical thinker, problem solver, passionate for challenges and for developing solutions that causes positive impact on society. I have solid experience leading Engineering teams, working with Backend Engineering, Cloud Architecture and DevOps. I'm motivated by real challenges, working to solve problems I don't even know where to start at a first glance. 
+Critical thinker, problem solver, passionate for challenges and for developing solutions that causes positive impact on society. I have solid experience leading Engineering teams, working with Backend Engineering, Cloud Architecture and DevOps. I'm motivated by real challenges, working to solve problems I don't even know where to start at a first glance. Currently working as Technical Leader of Risk and Fraud Prevention team at [Cloudwalk, inc.](https://cloudwalk.io)
 
 # 💻 Tech Stack
 <div align="center">
